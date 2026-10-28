@@ -1,0 +1,12 @@
+{
+  "name": "Remix: SAHARA",
+  "description": "Enterprise-grade safety, security, and emergency coordination network.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="28" y1="22" x2="730" y2="496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173F73"/>
+      <stop offset="1" stop-color="#0B1930"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="83" y1="75" x2="642" y2="423" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#76C9D5" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#F27A4B" stop-opacity=".14"/>
+    </linearGradient>
+    <linearGradient id="vest" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB36B"/>
+      <stop offset="1" stop-color="#E75A37"/>
+    </linearGradient>
+    <filter id="shadow" x="141" y="146" width="480" height="342" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="17"/>
+    </filter>
+  </defs>
+  <rect width="760" height="520" rx="32" fill="url(#bg)"/>
+  <path d="M-14 355c95-101 171-68 254-139s162-67 240-17 165 49 289-69" stroke="#8ACFD1" stroke-opacity=".16" stroke-width="2" stroke-dasharray="7 9"/>
+  <path d="M-21 414c103-100 178-63 268-135s157-68 239-18 160 50 295-73" stroke="#8ACFD1" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M43 81c79 39 119 34 179-5s121-38 176 2 121 35 206-7" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M81 127c77 39 116 35 176-5s117-38 170 2 118 34 201-7" stroke="#fff" stroke-opacity=".06" stroke-width="2"/>
+  <circle cx="385" cy="271" r="165" fill="url(#glow)"/>
+  <circle cx="383" cy="263" r="153" stroke="#B8E5E2" stroke-opacity=".18" stroke-dasharray="3 9"/>
+  <circle cx="383" cy="263" r="117" stroke="#B8E5E2" stroke-opacity=".14" stroke-dasharray="3 9"/>
+  <path d="M168 338c78-50 136-75 208-70s129 30 214 79" stroke="#8BD4D1" stroke-opacity=".45" stroke-width="2" stroke-dasharray="5 8"/>
+  <circle cx="168" cy="338" r="8" fill="#7BD3C4"/>
+  <circle cx="590" cy="347" r="8" fill="#FF9B67"/>
+  <circle cx="383" cy="264" r="9" fill="#fff"/>
+  <circle cx="383" cy="264" r="17" stroke="#fff" stroke-opacity=".28"/>
+  <ellipse cx="386" cy="442" rx="210" ry="32" fill="#050D19" fill-opacity=".72" filter="url(#shadow)"/>
+  <path d="M321 180c0-34 27-61 61-61s61 27 61 61v41H321v-41Z" fill="#F1B48A"/>
+  <path d="M315 183c4-48 31-73 70-73 36 0 60 22 68 68l-18 11-14-24-9 24h-63l-14-20-7 24-13-10Z" fill="#243752"/>
+  <path d="M295 315c0-63 37-101 87-101s87 38 87 101v80H295v-80Z" fill="url(#vest)"/>
+  <path d="M330 226h105l20 139H313l17-139Z" fill="#F8F4E9"/>
+  <path d="M356 226h36l-6 67h-24l-6-67Z" fill="#E96C46"/>
+  <path d="M352 278h44l18 107h-80l18-107Z" fill="#1A3B64"/>
+  <path d="M295 304c-23 14-40 40-50 77l-10 37c-3 11 4 22 15 24 10 2 20-4 23-14l16-48 26-31v-45h-20Z" fill="#D99A78"/>
+  <path d="M465 304c23 14 40 40 50 77l10 37c3 11-4 22-15 24-10 2-20-4-23-14l-16-48-26-31v-45h20Z" fill="#D99A78"/>
+  <path d="M247 396h45v18h-53l8-18Zm218 0h45l8 18h-53v-18Z" fill="#223650"/>
+  <rect x="364" y="306" width="37" height="40" rx="8" fill="#fff"/>
+  <path d="M382.5 314v24m-12-12h24" stroke="#E75A37" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="165" cy="193" r="31" fill="#D8A184"/>
+  <path d="M135 193c2-27 15-41 34-41 18 0 28 13 30 35l-12 8-7-13-8 13h-19l-8-11-6 14-4-5Z" fill="#313B4F"/>
+  <path d="M119 277c0-41 19-67 48-67s48 26 48 67v56h-96v-56Z" fill="#55A4A1"/>
+  <path d="M135 223h63l8 72h-79l8-72Z" fill="#E7F0E6"/>
+  <path d="M151 223h30l-4 39h-22l-4-39Z" fill="#55A4A1"/>
+  <path d="M119 265c-13 12-20 31-25 56l-4 20c-2 9 4 17 13 18 8 1 15-4 17-12l8-30 15-21v-31h-24Zm96 0c13 12 20 31 25 56l4 20c2 9-4 17-13 18-8 1-15-4-17-12l-8-30-15-21v-31h24Z" fill="#D8A184"/>
+  <path d="M391 437h-71l-11 31h91l-9-31Zm94 0h71l11 31h-91l9-31Z" fill="#182A43"/>
+  <path d="M390 414h85l-8 30h-78l1-30Z" fill="#274462"/>
+  <path d="M459 403v-20h28v20" stroke="#A9D9D4" stroke-width="5" stroke-linecap="round"/>
+  <path d="M532 402h55l-4 18h-55l4-18Z" fill="#F0F4EC"/>
+  <circle cx="541" cy="423" r="8" fill="#14263D"/>
+  <circle cx="573" cy="423" r="8" fill="#14263D"/>
+  <rect x="509" y="384" width="13" height="22" rx="4" fill="#FF7658"/>
+  <path d="M513 379c-4-8 4-12 0-20m8 20c-4-8 4-12 0-20" stroke="#FFB36B" stroke-width="3" stroke-linecap="round"/>
+  <rect x="58" y="53" width="194" height="42" rx="21" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".12"/>
+  <circle cx="81" cy="74" r="6" fill="#6AE0B5"/>
+  <text x="98" y="80" fill="#EAF5F4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">COORDINATED RESPONSE</text>
+  <rect x="539" y="61" width="153" height="46" rx="23" fill="#F7FAF4"/>
+  <circle cx="563" cy="84" r="12" fill="#DCF4E8"/>
+  <path d="M563 77v14m-7-7h14" stroke="#16866B" stroke-width="3" stroke-linecap="round"/>
+  <text x="582" y="89" fill="#173F73" font-family="Arial, sans-serif" font-size="13" font-weight="700">HELP IS IN SYNC</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" fill="none">
+  <defs>
+    <linearGradient id="mapBg" x1="0" y1="0" x2="760" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DDF3EF"/>
+      <stop offset="1" stop-color="#E6EFF8"/>
+    </linearGradient>
+    <linearGradient id="pin" x1="340" y1="106" x2="425" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FA8561"/>
+      <stop offset="1" stop-color="#C94432"/>
+    </linearGradient>
+    <filter id="shadow" x="310" y="86" width="176" height="237" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="760" height="520" rx="32" fill="url(#mapBg)"/>
+  <path d="M-45 112 130 16l155 42 142-80 176 97 197-65v120L645 207l-127-25-133 79-165-44-134 68-131-59V112Z" fill="#D2E8E5"/>
+  <path d="m-31 421 179-85 131 59 153-85 167 75 180-86v160l-166 76-157-55-158 70-164-47-165 44V421Z" fill="#C9E0DE"/>
+  <path d="m90-24 95 117 70 143 66 96 75 213" stroke="#fff" stroke-width="53"/>
+  <path d="m90-24 95 117 70 143 66 96 75 213" stroke="#C8D9E2" stroke-width="2" stroke-dasharray="8 9"/>
+  <path d="m-31 367 153-69 123-70 139-32 131-68 151 26 152-60" stroke="#fff" stroke-width="40"/>
+  <path d="m-31 367 153-69 123-70 139-32 131-68 151 26 152-60" stroke="#C8D9E2" stroke-width="2" stroke-dasharray="8 9"/>
+  <path d="m165 94 105-31 61 26-28 57-94 18-44-70Zm-80 231 90-33 56 34-32 73-90 16-24-90Zm270-90 75-31 76 35-22 57-91 21-38-82Zm181-75 79 4 42 38-33 59-82 1-41-51 35-51Zm-67 204 82-30 66 41-30 58-77 20-41-89Z" fill="#F8FCFB"/>
+  <path d="m177 107 76-22 34 15-20 36-68 12-22-41Zm-56 227 55-20 34 20-19 45-54 10-16-55Zm249-90 48-20 49 22-14 38-59 13-24-53Zm190-78 51 2 27 24-22 38-52 1-27-33 23-32Zm-45 213 52-19 42 26-19 37-49 13-26-57Z" fill="#EEF6E8"/>
+  <path d="M383 124c-58 0-105 47-105 105 0 76 105 194 105 194s105-118 105-194c0-58-47-105-105-105Z" fill="#B84836" fill-opacity=".15" filter="url(#shadow)"/>
+  <path d="M379 105c-54 0-97 43-97 97 0 70 97 179 97 179s97-109 97-179c0-54-43-97-97-97Z" fill="url(#pin)"/>
+  <circle cx="379" cy="201" r="48" fill="#FFF9F4"/>
+  <circle cx="379" cy="201" r="34" fill="#FCE5DF"/>
+  <path d="M379 179v44m-22-22h44" stroke="#C94432" stroke-width="10" stroke-linecap="round"/>
+  <path d="M498 338c47-13 92-14 142-3" stroke="#217E83" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 18"/>
+  <circle cx="565" cy="332" r="14" fill="#217E83" stroke="#F9FCFA" stroke-width="6"/>
+  <rect x="50" y="52" width="196" height="44" rx="22" fill="#fff" fill-opacity=".88" stroke="#D5E5E6"/>
+  <circle cx="75" cy="74" r="7" fill="#15A77B"/>
+  <text x="94" y="80" fill="#234C69" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">LIVE LOCATION LOCK</text>
+  <rect x="520" y="420" width="182" height="54" rx="18" fill="#fff" fill-opacity=".93" stroke="#D5E5E6"/>
+  <circle cx="549" cy="447" r="13" fill="#E7F5F0"/>
+  <path d="M549 440v14m-7-7h14" stroke="#16866B" stroke-width="3" stroke-linecap="round"/>
+  <text x="572" y="451" fill="#234C69" font-family="Arial, sans-serif" font-size="14" font-weight="700">Response nearby</text>
+</svg>

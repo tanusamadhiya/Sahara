@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" fill="none">
+  <defs>
+    <linearGradient id="impactBg" x1="0" y1="0" x2="760" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E3654"/>
+      <stop offset="1" stop-color="#10745F"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="295" y1="99" x2="456" y2="365" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE8A3"/>
+      <stop offset=".53" stop-color="#F8BA4E"/>
+      <stop offset="1" stop-color="#D98B27"/>
+    </linearGradient>
+    <filter id="shadow" x="173" y="97" width="418" height="418" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="23"/>
+    </filter>
+  </defs>
+  <rect width="760" height="520" rx="32" fill="url(#impactBg)"/>
+  <circle cx="378" cy="257" r="174" fill="#8DE3B8" fill-opacity=".11"/>
+  <circle cx="378" cy="257" r="139" stroke="#D6F3DE" stroke-opacity=".26" stroke-dasharray="3 10"/>
+  <path d="M0 436c81-57 141-63 217-25 68 35 127 29 194-13s125-49 199-9c52 27 99 31 150 8v123H0V436Z" fill="#092844" fill-opacity=".7"/>
+  <path d="m246 202 79 18v102l-76-21-3-99Zm181 18 79-18-3 99-76 21V220Z" fill="#EAA746"/>
+  <path d="m251 203 70 16v88l-67-17-3-87Zm171 16 70-16-3 87-67 17v-88Z" fill="#F9D378"/>
+  <path d="M294 253c0-48 39-87 87-87s87 39 87 87v104H294V253Z" fill="#B97925" fill-opacity=".28" filter="url(#shadow)"/>
+  <path d="m293 251 88-65 87 65v119H293V251Z" fill="url(#gold)" stroke="#FFF1C6" stroke-opacity=".7" stroke-width="5"/>
+  <path d="M330 282c0-28 23-51 51-51s51 23 51 51v87H330v-87Z" fill="#FFF2BD"/>
+  <path d="M365 264h31l-5 27h-21l-5-27Z" fill="#D99532"/>
+  <path d="M356 306c0-14 11-25 25-25s25 11 25 25v49h-50v-49Z" fill="#D99736"/>
+  <path d="m294 369-40 100h92l23-100h-75Zm87 0 22 100h92l-39-100h-75Z" fill="#DAA13B"/>
+  <path d="m305 388-27 64h54l15-64h-42Zm86 0 14 64h55l-25-64h-44Z" fill="#F9D378"/>
+  <path d="M378 91l17 31 34 6-24 24 5 34-32-16-31 16 6-34-25-24 34-6 16-31Z" fill="#FFF4C7"/>
+  <path d="M171 211l12 22 24 4-18 17 4 24-22-11-22 11 4-24-18-17 24-4 12-22Z" fill="#90E0BD"/>
+  <path d="M559 146l11 20 22 4-16 15 4 22-21-10-20 10 4-22-16-15 22-4 10-20Z" fill="#90E0BD"/>
+  <circle cx="202" cy="353" r="25" fill="#E2A787"/>
+  <path d="M178 354c1-24 11-36 25-36 16 0 23 12 25 32l-11 7-7-10-8 11h-14l-7-10-3 9-3-3Z" fill="#243750"/>
+  <path d="M160 421c0-39 15-59 42-59s42 20 42 59v29h-84v-29Z" fill="#72C9B0"/>
+  <circle cx="557" cy="360" r="25" fill="#CF9271"/>
+  <path d="M533 360c2-23 12-35 26-35 16 0 23 12 25 31l-11 8-7-10-8 10h-14l-7-9-3 9-2-4Z" fill="#26354A"/>
+  <path d="M514 426c0-39 16-59 43-59s42 20 42 59v24h-85v-24Z" fill="#F4F5ED"/>
+  <rect x="48" y="51" width="193" height="43" rx="21.5" fill="#fff" fill-opacity=".11" stroke="#fff" stroke-opacity=".2"/>
+  <circle cx="73" cy="72.5" r="7" fill="#8DE3B8"/>
+  <text x="93" y="78" fill="#F4FBF8" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.3">COMMUNITY IN ACTION</text>
+  <rect x="524" y="426" width="185" height="47" rx="23.5" fill="#F9FCF3"/>
+  <circle cx="550" cy="449.5" r="12" fill="#F9E7B8"/>
+  <path d="m550 442 2.4 5 5.5.8-4 3.9.9 5.4-4.8-2.6-4.9 2.6.9-5.4-4-3.9 5.5-.8 2.5-5Z" fill="#C98722"/>
+  <text x="571" y="455" fill="#28513F" font-family="Arial, sans-serif" font-size="13" font-weight="700">Every act counts</text>
+</svg>
